@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/treinando-landingpage/static/css/main.c5a50aa3.css",
+    "main.js": "/treinando-landingpage/static/js/main.07d7d564.js",
+    "static/js/787.6606bfd5.chunk.js": "/treinando-landingpage/static/js/787.6606bfd5.chunk.js",
+    "static/media/pngwing.com.png": "/treinando-landingpage/static/media/pngwing.com.0d301189cfbebef59e28.png",
+    "index.html": "/treinando-landingpage/index.html",
+    "main.c5a50aa3.css.map": "/treinando-landingpage/static/css/main.c5a50aa3.css.map",
+    "main.07d7d564.js.map": "/treinando-landingpage/static/js/main.07d7d564.js.map",
+    "787.6606bfd5.chunk.js.map": "/treinando-landingpage/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a50aa3.css",
+    "static/js/main.07d7d564.js"
+  ]
+}
