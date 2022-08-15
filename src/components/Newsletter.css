@@ -1,0 +1,70 @@
+.container-body {
+    display: flex;
+    margin-top: 4rem;
+    padding-top: 4rem;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: black;
+    color: aliceblue;
+    width: 100;
+
+}
+
+@media (max-width: 768px) {
+    div#page {
+    padding: 0;
+    }}
+
+.container-insc h1 {
+    font-size: 40px;
+}
+.container-inc h2 {
+    font-size: 30px;
+    
+}
+
+.container-imagem {
+    position: relative;
+}
+
+button {
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+
+.forms-list {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.nomed{
+    margin: 10px;
+    border-radius: 15px;
+    background-color: grey;
+    padding: 10px;
+    outline: none;
+}
+.emaild{
+    margin: 10px;
+    border-radius: 15px;
+    background-color: grey;
+    padding: 10px;
+    outline: none;
+}
+::placeholder{
+    color:black;
+}
+
+.submitd{
+    margin: 10px;
+    width: 150px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.submitd:hover {
+    background-color: aqua;
+    cursor: pointer;
+}

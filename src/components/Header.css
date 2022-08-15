@@ -1,0 +1,60 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    flex-wrap: wrap;
+    
+
+}
+
+.header-container header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50pt;
+    padding-left: 15px;
+    color: aliceblue;
+} 
+
+button {
+    background-color: #dad7cd;
+    font-family:  sans-serif;
+    font-weight: bold;
+    margin: 10px;
+    font-size: medium;
+}
+
+.but-1 {
+    border: none;
+    background-color: transparent;
+}
+
+.but-1:hover {
+    cursor: pointer;
+}
+
+.button-login:hover {
+    background-color: #a3b18a;
+    cursor: pointer;
+}
+
+.button-2:hover {
+    background-color: #a3b18a;
+    cursor: pointer;
+}
+
+.button-login {
+    margin: 15px;
+    border-radius: 15px;
+    
+}
+.button-2 {
+    border-radius: 35px;
+    border-width: 5px;
+    border-color: #344e41;
+    
+}
+
+.button-container {
+    display: flex;
+
+    
+}
